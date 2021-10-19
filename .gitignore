@@ -1,0 +1,11 @@
+/.vs
+/bin/Debug
+/obj/Debug
+/packages
+/ConsoleApplicationApp/Debug
+/Project/Debug
+/*/obj
+/*/bin
+/S71200/IM/SearchIndex
+/KerrMagneto-OpticMeasurementSystem/*.lnk
+/*.lnk

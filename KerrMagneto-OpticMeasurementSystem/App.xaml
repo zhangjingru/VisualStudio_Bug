@@ -1,0 +1,25 @@
+﻿<Application x:Class="KerrMagneto_OpticMeasurementSystem.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KerrMagneto_OpticMeasurementSystem"
+             StartupUri="src/View/MainWindow.xaml">
+    <!--StartupUri="src/View/MainWindow.xaml">-->
+    <!--StartupUri="src/Test/Test.xaml">-->
+    <!--<Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="src/Converter/Converter.xaml"/>
+
+                <ResourceDictionary Source="src/Skin/Colors.xaml"/>
+                <ResourceDictionary Source="src/Skin/TextBlock.xaml"/>
+                <ResourceDictionary Source="src/Skin/DataGrid.xaml"/>
+                <ResourceDictionary Source="src/Skin/ComboBox.xaml"/>
+                <ResourceDictionary Source="src/Skin/Buttons.xaml"/>
+
+                <ResourceDictionary Source="src/View/WaferView.xaml"/>
+                <ResourceDictionary Source="src/View/AlarmButton.xaml"/>
+
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>-->
+</Application>
